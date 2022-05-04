@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MC-ConstrainLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/MC-ConstrainLayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MC-ConstrainLayout.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MC-ConstrainLayout.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MC-Lec_04-05.iml" filepath="$PROJECT_DIR$/.idea/modules/MC-Lec_04-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MC-Lec_04-05.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MC-Lec_04-05.app.iml" />
     </modules>
   </component>
 </project>

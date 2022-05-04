@@ -9,19 +9,19 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9c7a8a9-c5a9-4095-b508-9eeb7426c375" name="Default Changelist" comment="" />
+    <list default="true" id="2a628012-1e2f-484d-b7ab-4255a3148a0c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[7606ca600404]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Ahmad Sarwar\.android\avd\Pixel_3_API_27Sen.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
-  <component name="ProjectId" id="28ghteTPs9ldoprFO6FkHhn9wkr" />
+  <component name="ProjectId" id="28h4QLDDFu0nTSGg5o3ADvlLDxG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,9 +32,14 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="android.template.-495773122">
+      <recent name="com.firstapp.mc_lec04_05" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="MC-ConstrainLayout.app" />
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="MC-Lec_04-05.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -96,11 +101,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9c7a8a9-c5a9-4095-b508-9eeb7426c375" name="Default Changelist" comment="" />
-      <created>1651644352634</created>
+      <changelist id="2a628012-1e2f-484d-b7ab-4255a3148a0c" name="Default Changelist" comment="" />
+      <created>1651655466584</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1651644352634</updated>
+      <updated>1651655466584</updated>
     </task>
     <servers />
   </component>
